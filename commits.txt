@@ -1,0 +1,34 @@
+commit f2f2c6f309cbc55b7c509dd8a9e45381348fc30e
+
+Author: Leisa <leikyserrano2401@gmail.com>
+Date:   Thu Sep 5 15:54:41 2019 -0500
+
+    
+se agrego de nuevo
+
+
+commit 92d2da0a613f78d70e3837f61d75e9477398938c
+
+Author: Leisa <leikyserrano2401@gmail.com>
+Date:   Thu Sep 5 15:45:51 2019 -0500
+
+    
+Se agrego holi
+
+
+commit b764e8ac2f572eccb88690ff0271ec7bc7ce28d9
+
+Author: Leisa <leikyserrano2401@gmail.com>
+Date:   Thu Sep 5 15:38:12 2019 -0500
+
+    
+Modificaciones
+
+
+commit 0fcc959fd135afee9b8b7604aadbf28edf0a9b95
+
+Author: Leisa <leikyserrano2401@gmail.com>
+Date:   Thu Sep 5 15:35:45 2019 -0500
+
+    
+Iniciamos
