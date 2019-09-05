@@ -14,6 +14,7 @@ int main(){
 		cout<<"de neuvo";
 		cout<<"nueva rama Colores ";
 		cout<< "se crea la rama TEXT";
+		cout<<"nueva linea para github"
 		cin>>dificultad;
 		for(int k = 0; k<dificultad;k++ ){
 			int rece = rand() % 8;
