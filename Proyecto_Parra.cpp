@@ -12,6 +12,8 @@ int main(){
 		cout<<"Bienvenido a: "<<endl<<"Selecciona tu dificultad "<<endl<<"1.- Facil"<<endl<<"2.- Medio"<<endl<<"3.- Dificil"<<endl;	
 		cout <<"holi";
 		cout<<"de neuvo";
+		cout<<"nueva rama Colores ";
+		cout<< "se crea la rama TEXT";
 		cin>>dificultad;
 		for(int k = 0; k<dificultad;k++ ){
 			int rece = rand() % 8;
