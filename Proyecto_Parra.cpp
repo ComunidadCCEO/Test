@@ -17,7 +17,7 @@ int main(){
 				case 0:{
 					nombre="\t\t\t\tPizza";
 					tope=9;
-					string ingredientes[]={"aceite de oliva","levadura","queso mozzarella","agua","sal","harina de trigo","pure de tomate","pepperoni","primienta"};
+					string ingredientes[]={"queso mozzarella","agua","sal","harina de trigo","pure de tomate","pepperoni","primienta"};
 					for(int g=0; g<tope ;g++){
 						receta[g]=ingredientes[g];
 					}
